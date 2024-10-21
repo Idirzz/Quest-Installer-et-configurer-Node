@@ -1,4 +1,4 @@
-const cowsay = require("cowsay");
+import cowsay from "cowsay";
 require("dotenv").config();
 
 console.log(
